@@ -1,0 +1,17 @@
+{
+  "name": "angular-task-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "3.4.0",
+    "body-parser": "1.15.1",
+    "express": "4.13.4",
+    "nedb": "1.8.0"
+  }
+}
